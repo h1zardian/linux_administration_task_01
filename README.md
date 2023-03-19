@@ -33,7 +33,7 @@ Here the story begins. You are working on video games magazine that wants to go 
 2. Know your software - make sure that you have installed stable and secure nginx version (no CVE found for this version)
 3. Create self-signed certificate and setup HTTPS connection to your VM(Virtual Machine)
 
-### Suggested:
+### Suggested learning:
 
 * [Virtual Box](https://www.virtualbox.org/wiki/Downloads)
 * [Ubuntu](https://releases.ubuntu.com/20.04/ubuntu-20.04.2-live-server-amd64.iso)
